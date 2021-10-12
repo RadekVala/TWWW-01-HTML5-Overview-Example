@@ -1,7 +1,7 @@
 {
-  "name": "01-html5-overview-example",
+  "name": "02-first-css",
   "version": "1.0.0",
-  "description": "This is a very first HTML Example - an overview of source code tags, theirs meaning, and other concepts.",
+  "description": "First css example. How to link CSS external files.",
   "main": "index.html",
   "scripts": {
     "start": "serve",
